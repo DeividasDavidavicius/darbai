@@ -1,0 +1,11 @@
+Total working hours: 29
+Task [id=ID73, idAirline=ID1, workers=2, dateFromStr=2021-04-01 12:00:00, duration=90, taskStartTime=630, taskEndTime=720, workingPeriodFrom=, taskStartHourInDay=10, dateFrom=Thu Apr 01 10:30:00 EEST 2021]
+Task [id=ID635, idAirline=ID4, workers=1, dateFromStr=2021-04-05 14:35:00, duration=180, taskStartTime=6455, taskEndTime=6635, workingPeriodFrom=, taskStartHourInDay=11, dateFrom=Mon Apr 05 11:35:00 EEST 2021]
+Task [id=ID756, idAirline=ID1, workers=1, dateFromStr=2021-04-06 12:40:00, duration=150, taskStartTime=7810, taskEndTime=7960, workingPeriodFrom=, taskStartHourInDay=10, dateFrom=Tue Apr 06 10:10:00 EEST 2021]
+Task [id=ID901, idAirline=ID1, workers=1, dateFromStr=2021-04-07 13:35:00, duration=135, taskStartTime=9320, taskEndTime=9455, workingPeriodFrom=, taskStartHourInDay=11, dateFrom=Wed Apr 07 11:20:00 EEST 2021]
+Task [id=ID1179, idAirline=ID10, workers=1, dateFromStr=2021-04-09 13:05:00, duration=90, taskStartTime=12215, taskEndTime=12305, workingPeriodFrom=, taskStartHourInDay=11, dateFrom=Fri Apr 09 11:35:00 EEST 2021]
+Task [id=ID1891, idAirline=ID4, workers=2, dateFromStr=2021-04-14 16:00:00, duration=135, taskStartTime=19545, taskEndTime=19680, workingPeriodFrom=, taskStartHourInDay=13, dateFrom=Wed Apr 14 13:45:00 EEST 2021]
+Task [id=ID2341, idAirline=ID10, workers=1, dateFromStr=2021-04-18 04:25:00, duration=135, taskStartTime=24610, taskEndTime=24745, workingPeriodFrom=, taskStartHourInDay=2, dateFrom=Sun Apr 18 02:10:00 EEST 2021]
+Task [id=ID2914, idAirline=ID4, workers=1, dateFromStr=2021-04-22 06:55:00, duration=150, taskStartTime=30505, taskEndTime=30655, workingPeriodFrom=, taskStartHourInDay=4, dateFrom=Thu Apr 22 04:25:00 EEST 2021]
+Task [id=ID3470, idAirline=ID1, workers=2, dateFromStr=2021-04-26 07:00:00, duration=150, taskStartTime=36270, taskEndTime=36420, workingPeriodFrom=, taskStartHourInDay=4, dateFrom=Mon Apr 26 04:30:00 EEST 2021]
+Task [id=ID3590, idAirline=ID10, workers=2, dateFromStr=2021-04-27 04:40:00, duration=135, taskStartTime=37585, taskEndTime=37720, workingPeriodFrom=, taskStartHourInDay=2, dateFrom=Tue Apr 27 02:25:00 EEST 2021]

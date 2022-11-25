@@ -1,0 +1,4 @@
+﻿Serveris2;4
+Serveris1;6
+Serveris49;4
+Serveris22;7

@@ -1,0 +1,4 @@
+Total working hours: 8
+Task [id=ID2296, idAirline=ID10, workers=1, dateFromStr=2021-04-17 14:25:00, duration=180, taskStartTime=23725, taskEndTime=23905, workingPeriodFrom=, taskStartHourInDay=11, dateFrom=Sat Apr 17 11:25:00 EEST 2021]
+Task [id=ID2514, idAirline=ID9, workers=3, dateFromStr=2021-04-19 08:20:00, duration=105, taskStartTime=26315, taskEndTime=26420, workingPeriodFrom=, taskStartHourInDay=6, dateFrom=Mon Apr 19 06:35:00 EEST 2021]
+Task [id=ID3011, idAirline=ID4, workers=3, dateFromStr=2021-04-22 17:30:00, duration=165, taskStartTime=31125, taskEndTime=31290, workingPeriodFrom=, taskStartHourInDay=14, dateFrom=Thu Apr 22 14:45:00 EEST 2021]

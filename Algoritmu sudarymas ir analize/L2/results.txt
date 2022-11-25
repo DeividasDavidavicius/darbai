@@ -1,0 +1,124 @@
+Rezultatai iš duomenų failo duomenys1.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys2.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys3.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys4.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys5.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys6.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys7.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys8.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys9.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys10.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys11.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys12.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys13.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys14.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys15.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys16.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys17.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys18.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys19.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys20.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys21.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys22.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys23.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys24.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys25.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys26.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys27.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys28.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys29.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys30.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 
+Rezultatai iš duomenų failo duomenys31.txt:
+Max points: 0
+Cities visited: 0
+City sequence: 

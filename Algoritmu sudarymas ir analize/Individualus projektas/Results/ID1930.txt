@@ -1,0 +1,2 @@
+Total working hours: 1
+Task [id=ID3871, idAirline=ID6, workers=3, dateFromStr=2021-04-29 05:05:00, duration=105, taskStartTime=40520, taskEndTime=40625, workingPeriodFrom=, taskStartHourInDay=3, dateFrom=Thu Apr 29 03:20:00 EEST 2021]

@@ -1,0 +1,94 @@
+Serverio pradiniai duomenys (2021-05-10, Serveris2):
+-------------------------------------------------------------------------------
+| Laikas     | Gavėjas                | Siuntėjas              | Laiško dydis |
+-------------------------------------------------------------------------------
+|   12:55:06 | tadas@gmail.com        | jonas@gmail.com        |         2000 |
+|   13:17:45 | kazkas@gmail.com       | tuu@yahoo.com          |        17000 |
+|   18:45:17 | petrinas@yahoo.com     | todas@yahoo.com        |        25000 |
+|   20:46:17 | skirma@gmail.com       | ninja@yahoo.com        |        12000 |
+|   10:48:44 | deividas@gmail.com     | skirma@gmail.com       |         2200 |
+|   00:00:01 | deividas@gmail.com     | skirma@gmail.com       |     12000000 |
+-------------------------------------------------------------------------------
+
+Serverio pradiniai duomenys (2021-05-11, Serveris2):
+-------------------------------------------------------------------------------
+| Laikas     | Gavėjas                | Siuntėjas              | Laiško dydis |
+-------------------------------------------------------------------------------
+|   17:22:46 | aowdwao@gmail.com      | aoksdasd@gmail.com     |        17235 |
+|   04:16:22 | Jonas@yahoo.com        | Pranas@gmail.com       |         7500 |
+|   11:49:55 | Stalas@stalai.lt       | Pirkejas@gmail.com     |        12000 |
+|   23:49:55 | Jonas@mokaus.lt        | edukacija@gmail.com    |         9550 |
+-------------------------------------------------------------------------------
+
+Serverio pradiniai duomenys (2021-05-10, Serveris2):
+-------------------------------------------------------------------------------
+| Laikas     | Gavėjas                | Siuntėjas              | Laiško dydis |
+-------------------------------------------------------------------------------
+|   07:25:12 | jotas@gmail.com        | atas@gmail.com         |        22000 |
+|   22:57:34 | jisai@gmail.com        | juod@yahoo.com         |        13050 |
+|   16:35:55 | petrinas@yahoo.com     | timas@gmail.com        |         5000 |
+|   14:26:22 | zaidejas@gmail.com     | ponas@yahoo.com        |         9400 |
+|   10:48:44 | deividas@gmail.com     | skirma@gmail.com       |         4200 |
+|   10:48:44 | deividas@gmail.com     | skirma@gmail.com       |         2200 |
+|   10:48:44 | deividas@gmail.com     | skirma@gmail.com       |         1200 |
+-------------------------------------------------------------------------------
+
+Serverio pradiniai duomenys (2021-05-11, Serveris2):
+-------------------------------------------------------------------------------
+| Laikas     | Gavėjas                | Siuntėjas              | Laiško dydis |
+-------------------------------------------------------------------------------
+|   07:25:12 | jotas@gmail.com        | atas@gmail.com         |        22000 |
+|   22:57:34 | jisai@gmail.com        | juod@yahoo.com         |        13050 |
+|   16:35:55 | petrinas@yahoo.com     | timas@gmail.com        |         5000 |
+|   14:26:22 | zaidejas@gmail.com     | ponas@yahoo.com        |         9400 |
+|   10:48:44 | deividas@gmail.com     | skirma@gmail.com       |         4200 |
+|   10:48:44 | deividas@gmail.com     | skirma@gmail.com       |         2200 |
+|   10:48:44 | deividas@gmail.com     | skirma@gmail.com       |         1200 |
+-------------------------------------------------------------------------------
+
+Serverių pradiniai duomenys:
+----------------------------
+| Serverio vard. | Greitis |
+----------------------------
+| Serveris2      |       4 |
+| Serveris1      |       6 |
+| Serveris49     |       4 |
+| Serveris22     |       7 |
+----------------------------
+
+Pradiniai duomenys sulieti pagal serverį ir datą (2021-05-10, Serveris2):
+-------------------------------------------------------------------------------
+| Laikas     | Gavėjas                | Siuntėjas              | Laiško dydis |
+-------------------------------------------------------------------------------
+|   12:55:06 | tadas@gmail.com        | jonas@gmail.com        |         2000 |
+|   13:17:45 | kazkas@gmail.com       | tuu@yahoo.com          |        17000 |
+|   18:45:17 | petrinas@yahoo.com     | todas@yahoo.com        |        25000 |
+|   20:46:17 | skirma@gmail.com       | ninja@yahoo.com        |        12000 |
+|   10:48:44 | deividas@gmail.com     | skirma@gmail.com       |         2200 |
+|   00:00:01 | deividas@gmail.com     | skirma@gmail.com       |     12000000 |
+|   07:25:12 | jotas@gmail.com        | atas@gmail.com         |        22000 |
+|   22:57:34 | jisai@gmail.com        | juod@yahoo.com         |        13050 |
+|   16:35:55 | petrinas@yahoo.com     | timas@gmail.com        |         5000 |
+|   14:26:22 | zaidejas@gmail.com     | ponas@yahoo.com        |         9400 |
+|   10:48:44 | deividas@gmail.com     | skirma@gmail.com       |         4200 |
+|   10:48:44 | deividas@gmail.com     | skirma@gmail.com       |         1200 |
+-------------------------------------------------------------------------------
+
+Pradiniai duomenys sulieti pagal serverį ir datą (2021-05-11, Serveris2):
+-------------------------------------------------------------------------------
+| Laikas     | Gavėjas                | Siuntėjas              | Laiško dydis |
+-------------------------------------------------------------------------------
+|   17:22:46 | aowdwao@gmail.com      | aoksdasd@gmail.com     |        17235 |
+|   04:16:22 | Jonas@yahoo.com        | Pranas@gmail.com       |         7500 |
+|   11:49:55 | Stalas@stalai.lt       | Pirkejas@gmail.com     |        12000 |
+|   23:49:55 | Jonas@mokaus.lt        | edukacija@gmail.com    |         9550 |
+|   07:25:12 | jotas@gmail.com        | atas@gmail.com         |        22000 |
+|   22:57:34 | jisai@gmail.com        | juod@yahoo.com         |        13050 |
+|   16:35:55 | petrinas@yahoo.com     | timas@gmail.com        |         5000 |
+|   14:26:22 | zaidejas@gmail.com     | ponas@yahoo.com        |         9400 |
+|   10:48:44 | deividas@gmail.com     | skirma@gmail.com       |         4200 |
+|   10:48:44 | deividas@gmail.com     | skirma@gmail.com       |         2200 |
+|   10:48:44 | deividas@gmail.com     | skirma@gmail.com       |         1200 |
+-------------------------------------------------------------------------------
+
+Nei vienam serveryje nėra valandų, kai nebuvo perduoti duomenys!

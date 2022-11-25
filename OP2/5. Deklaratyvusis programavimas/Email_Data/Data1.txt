@@ -1,0 +1,7 @@
+﻿2021/05/10;Serveris2
+12:55:06;tadas@gmail.com;jonas@gmail.com;2000
+13:17:45;kazkas@gmail.com;tuu@yahoo.com;17000
+18:45:17;petrinas@yahoo.com;todas@yahoo.com;25000
+20:46:17;skirma@gmail.com;ninja@yahoo.com;12000
+10:48:44;deividas@gmail.com;skirma@gmail.com;2200
+00:00:01;deividas@gmail.com;skirma@gmail.com;12000000

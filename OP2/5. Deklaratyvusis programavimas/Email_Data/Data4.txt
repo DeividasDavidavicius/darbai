@@ -1,0 +1,8 @@
+﻿2021/05/11;Serveris2
+07:25:12;jotas@gmail.com;atas@gmail.com;22000
+22:57:34;jisai@gmail.com;juod@yahoo.com;13050
+16:35:55;petrinas@yahoo.com;timas@gmail.com;5000
+14:26:22;zaidejas@gmail.com;ponas@yahoo.com;9400
+10:48:44;deividas@gmail.com;skirma@gmail.com;4200
+10:48:44;deividas@gmail.com;skirma@gmail.com;2200
+10:48:44;deividas@gmail.com;skirma@gmail.com;1200
